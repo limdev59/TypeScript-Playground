@@ -1,3 +1,15 @@
-tutorial1 name1 texts   button1 tutorial2 button2 tutorial2
-tutorial2 name1 texts   button1 tutorial3 button2 tutorial3
-tutorial3 name1 texts   button1 tutorial4 button2 tutorial4 button1 tutorial4 button2 tutorial4
+tutorial1 DOPP1   다음 tutorial2 DOPP1
+tutorial2 DOPP1   다음 tutorial3 DOPP1
+tutorial3 DOPP1   다음 tutorial4 DOPP1
+tutorial4 DOPP1   다음 tutorial5 DOPP1
+tutorial5 DOPP1   다음 tutorial6 DOPP1
+tutorial6 DOPP1   다음 tutorial7 DOPP1
+tutorial7 DOPP1   다음 tutorial8 DOPP1
+tutorial8 DOPP1   다음 tutorial9 DOPP1
+tutorial9 DOPP1   다음 tutorial10 DOPP1
+tutorial10 DOPP1   다음 tutorial11 DOPP1
+tutorial11 DOPP1   다음 tutorial12 DOPP1
+tutorial12 DOPP1   다음 tutorial13 DOPP1
+tutorial13 DOPP1   다음 tutorial14 DOPP1
+tutorial14 DOPP1   다음 tutorial15 DOPP1
+tutorial15 DOPP1

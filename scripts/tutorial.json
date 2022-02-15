@@ -2,6 +2,548 @@
   "format_version": "1.17",
   "minecraft:npc_dialogue": {
     "scenes": [
+      {
+        "scene_tag": "tutorial1",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial1"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial2"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial2",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial2"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial3"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial3",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial3"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial4"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial4",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial4"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial5"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial5",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial5"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial6"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial6",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial6"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial7"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial7",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial7"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial8"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial8",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial8"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial9"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial9",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial9"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial10"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial10",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial10"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial11"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial11",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial11"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial12"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial12",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial12"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial13"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial13",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial13"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial14"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial14",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial14"
+            }
+          ]
+        },
+        "on_open_commands": [
+          ""
+        ],
+        "on_close_commands": [
+          ""
+        ],
+        "buttons": [
+          {
+            "name": {
+              "rawtext": [
+                {
+                  "text": "다음"
+                }
+              ]
+            },
+            "commands": [
+              "/dialogue open @e[type=lim:dialogue,name=DOPP1] @initiator tutorial15"
+            ]
+          }
+        ]
+      },
+      {
+        "scene_tag": "tutorial15",
+        "npc_name": {
+          "rawtext": [
+            {
+              "translate": "dialog.DOPP1"
+            }
+          ]
+        },
+        "text": {
+          "rawtext": [
+            {
+              "translate": "dialog.tutorial15"
+            }
+          ]
+        },
+        "on_open_commands": [
+          null
+        ],
+        "on_close_commands": [
+          null
+        ],
+        "buttons": []
+      }
     ]
   }
 }
